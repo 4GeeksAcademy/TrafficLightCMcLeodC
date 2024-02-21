@@ -10,3 +10,24 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.trafficLight {
+    height: 860px;
+    width: 300px;
+    padding: 2px;
+}
+
+.redLight {
+    
+    height: 260px;
+    margin: 20px;
+}
+
+.orangeLight {
+    height: 260px;
+    margin: 20px;
+}
+
+.greenLight {
+    height: 260px;
+    margin: 20px;
+}
